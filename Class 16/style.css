@@ -1,0 +1,37 @@
+h1{
+position:absolute;
+left: 40%;
+bottom: 75%;
+}
+.grass{
+    border: 1px solid green;
+    width: 2000px;
+    height: 25%;
+    position: absolute;
+    bottom: 0px;
+    background-color: green;
+}
+
+img{
+ height: 150px;
+ width: 150px;
+display: inline-block;
+}
+.cow{
+    position: absolute;
+    top: 520px;
+    left: 300px;
+    
+}
+.sheep{
+    position: absolute;
+    top: 720px;     
+    left: 70px;
+    
+}
+.tree{
+ position: absolute;
+ top: 510px;
+ left: 75%;
+ 
+}

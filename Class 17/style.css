@@ -1,0 +1,74 @@
+.box1{
+
+height: 50px;
+
+width: 700px;
+
+background-color: yellow;
+
+position: relative;
+
+top: 300px;
+
+}
+
+.box2{
+
+height: 600px;
+
+width: 300px;
+
+border:3px black solid ;
+
+border-bottom: 0px;
+
+margin-left: 300px;
+
+}
+
+.box3{
+
+height: 50px;
+
+width: 302px;
+
+background-color:blue ;
+
+position: absolute;
+
+left: 302px;
+
+top: 60px;
+
+}
+
+.box4{
+
+height: 50px;
+
+width: 145px;
+
+background-color: black;
+
+position: absolute;
+
+bottom: 580px;
+
+left: 470px;
+
+}
+
+.box5{
+
+height: 600px;
+
+width: 50px;
+
+background-color: palevioletred;
+
+position: sticky;
+
+bottom: 159px;
+
+left: 470px;
+}
